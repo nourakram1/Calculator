@@ -1,4 +1,4 @@
-# Calculator Project
+# Calculator
 
 ![OverView](Overview.png)
 
